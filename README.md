@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheMonHub (test test 123)
-- 👀 I’m interested in coding (cuz why not?)
-- 📫 to reach me gimme a call with mono15.parnthakote@gmail.com (call me with email)
+- 👋 Hi, I’m TheMonHub also known as Mono
+- 👀 I’m interested in coding (cuz why not?) and I'm 15 years old, Thailand programmer with passion.
+- 📫 to reach me use this email mono15.parnthakote@gmail.com
 
 <!---
 mono421/mono421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
